@@ -1,5 +1,5 @@
 # arduino-flasher-33
-esp32 (lolin32) based "USB-to-UART converter" for arduino 3.3V powered boards
+esp32 (lolin32) based "USB-to-UART converter" for 3.3V powered arduino boards
 
 For flashing a small arduino board (e.g. _arduino-pro-mini_) which:
 - is powered by 3.3V
